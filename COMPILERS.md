@@ -1,6 +1,7 @@
 # List of compilers that are confirmed to work:
 
 - gcc (GCC) 13.3.0
+- gcc (GCC) 14.2.0
 
 ## Checking GCC version
 
